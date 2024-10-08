@@ -1,0 +1,11 @@
+body {
+    cursor: url('../img/diamond_sword.png'), auto;
+}
+
+.radio {
+    border-radius: 20px;
+}
+
+html {
+    cursor: url('../img/diamond_sword.png'), auto;
+}
